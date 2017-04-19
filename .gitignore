@@ -3,3 +3,4 @@
 .gitattributes
 output/*
 *.html
+**/*.sqlite
